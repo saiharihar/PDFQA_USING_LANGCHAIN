@@ -1,0 +1,8 @@
+fastapi==0.115.13           # Released June 17 2025 :contentReference[oaicite:1]{index=1}
+uvicorn==0.34.3            # Released June 1 2025 :contentReference[oaicite:2]{index=2}
+pdfplumber==0.11.7         # Released June 12 2025 :contentReference[oaicite:3]{index=3}
+langchain==0.3.26          # Released June 20 2025 :contentReference[oaicite:4]{index=4}
+llama-index==0.12.43       # Released June 18 2025 :contentReference[oaicite:5]{index=5}
+python-multipart==0.0.20   # Released December 16 2024 :contentReference[oaicite:6]{index=6}
+sentence-transformers==4.1.0  # Released April 15 2025 :contentReference[oaicite:7]{index=7}
+langchain-huggingface==0.0.6  # or latest
