@@ -14,7 +14,7 @@ from typing import Optional
 load_dotenv()
 
 # Initialize Gemini
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "AIzaSyBHPRzi3gkjS487QbTn1hONMVRIuXFU_L0")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 if not GOOGLE_API_KEY:
     raise RuntimeError("GOOGLE_API_KEY not found in environment variables")
 
